@@ -11,4 +11,4 @@ Display github version tag and commit in HTML (Requires jQuery)
 
 * include jquery lib (http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js) in your html
 * include github-version.js file in your html
-* create the appropriate tag you want to display the version.  See [Example index.html](https://github.com/mrpatrick/github-version/index.html)
+* create the appropriate tag you want to display the version.  See [Example index.html](https://github.com/mrpatrick/github-version/blob/37281548a52469736e479a5efb47c32b3b62d6fc/index.html)
